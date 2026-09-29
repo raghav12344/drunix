@@ -145,13 +145,6 @@ flowchart TB
 3. **Live Cloud API Health Probing**:
    - Client-side liveness ping querying the live cloud backend (`https://trustpay-backend-service.onrender.com/api/health`).
    - Displays real-time operational status, latency, and SLA uptime indicators.
-4. **Academic Engineering Project & Team Showcase**:
-   - Prominently showcases the 4 academic project contributors in clean, balanced cards with high-contrast monospace registration badges:
-     - **Raghav Gupta** (`20243226`)
-     - **Rishabh Srivastava** (`20243236`)
-     - **Rishabh Singh** (`20243235`)
-     - **Prince Keshari** (`20243218`)
-   - B.Tech • Computer Science & Engineering • 3rd Year Project 2026.
 
 ---
 
